@@ -1,4 +1,4 @@
-curl -XPUT 'http://localhost:9200/weibo/tweet/_mapping' -d '
+curl -XPUT 'http://10.208.63.52:8800/weibo/tweet/_mapping' -d '
 {
     "tweet" : {
         "properties" : {

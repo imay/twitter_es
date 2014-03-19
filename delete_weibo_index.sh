@@ -1,1 +1,1 @@
-curl -XDELETE 'http://localhost:9200/weibo/'
+curl -XDELETE 'http://10.208.63.52:8800/weibo/'
